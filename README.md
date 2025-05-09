@@ -1,8 +1,8 @@
-# Hi there! Im Muhammad Habib
+# Hi there! Im Muhammad Habib!👋
 A Front-End & Back-End Developer<br>I have expertise in webProgramming, JavaScript programming.<br>I always open tocollaboration and discussion of new ideas.<br>If you are interested in working together, feel free to contact me.
 
 # 💫 About Me:
-🔭 Newbie Programmer<br>👯 Student at Universitas Potensi Utama Medan<br>🌱 I’m currently learning
+🔭 Newbie Programmer<br>👯 Student at Universitas Potensi Utama Medan<br>🌱 I’m currently learning **NextJs**
 
 
 ## 🌐 Socials:
