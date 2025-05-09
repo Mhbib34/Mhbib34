@@ -1,4 +1,4 @@
-# Hi there! Im Muhammad Habib!👋
+# Hi there! I'm Muhammad Habib!👋
 A Front-End & Back-End Developer<br>I have expertise in webProgramming, JavaScript programming.<br>I always open tocollaboration and discussion of new ideas.<br>If you are interested in working together, feel free to contact me.
 
 # 💫 About Me:
